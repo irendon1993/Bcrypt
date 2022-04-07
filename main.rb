@@ -31,3 +31,5 @@ if new_password == "Test"
 else 
   puts "Damn"
 end
+
+puts new_password
